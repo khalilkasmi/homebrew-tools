@@ -1,8 +1,8 @@
 class AwsConfigGen < Formula
   desc "Interactive TUI to generate AWS SSO config profiles"
   homepage "https://github.com/khalilkasmi/aws-config-gen"
-  url "https://github.com/khalilkasmi/aws-config-gen/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "8fe59136457b46e2cd728b86dfaf2ec0cbe8e076ad767b09fca356b6f057533d" # TODO: fill after first release
+  url "https://github.com/khalilkasmi/aws-config-gen/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "81de7d7ded5add728ea7bc56a2500bb7ed971a0711e48b406240f870d02e79b6"
   license "MIT"
 
   depends_on "awscli"
